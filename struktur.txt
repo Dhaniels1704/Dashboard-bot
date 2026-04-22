@@ -1,0 +1,26 @@
+vipers-project/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx            // landing page
+│   └── dashboard/
+│       └── page.tsx        // dashboard user
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── Features.tsx
+│   ├── Stats.tsx
+│   ├── Footer.tsx
+│   └── ui/
+│       └── Button.tsx
+│
+├── lib/
+│   └── utils.ts            // helper (ts)
+│
+├── styles/
+│   └── globals.css
+│
+├── public/
+│
+├── tsconfig.json
+└── package.json
